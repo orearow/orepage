@@ -1,0 +1,221 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background: #66D1CA
+;
+}
+
+h1 {
+	margin-bottom: 0.5em;
+	padding: 0;
+	border-bottom: dashed 0.1em;
+	display: inline-block;
+	font-size: 3em;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+.intro-content > h1 {
+	text-shadow: 0.05em 0.05em 0.05em #fff;
+	/* was 1px before conversion to ems */
+}
+
+h3,
+h1 {
+	text-shadow: 0.05em 0.05em 0.05em #000;
+}
+
+p {
+	font-size: 1.1em;
+	/* was 15px before conversion to ems */
+	letter-spacing: 0.1em;
+}
+
+.masthead-starter {
+	margin-top: 1em;
+	margin-bottom: 0.1em;
+	font-size: 1.3em;
+}
+
+.masthead-name {
+	padding-top: 0.1em;
+	font-size: 4em;
+	margin-top: 0.2em;
+	margin-bottom: 0.4em;
+	border-bottom: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: -0.02em;
+}
+
+.masthead {
+	text-align: center;
+	color: #ffffff;
+	background: rgba(0, 0, 0, 0.6);
+	padding: 1em;
+	margin: 5em 25em;
+	border-radius: 50em 0em 50em 0em;
+}
+
+.top-content {
+	background-image: url("http://i1197.photobucket.com/albums/aa429/Ore_Arowobusoye/image5_1.jpg");
+	background-size: cover;
+	min-height: 350px;
+	overflow: hidden;
+	border-top: solid 0.7em #000000;
+}
+
+.intro-content,
+.location-content,
+.further-info-content,
+.footer-content {
+	/* 	was padding: 40px 350px 25px 350px; before max-width */
+	max-width: 42em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em;
+	font-weight: 300;
+	letter-spacing: 0.05em;
+}
+
+.location-content {
+	margin-top: 0.1em;
+}
+
+.further-info-content > h4,
+h3 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+h4 {
+	color: #C5D899;
+	font-size: 1.4em;
+}
+
+img.map {
+	width: 100%;
+	margin-bottom: -20px;
+	border-radius: 20px;
+	-moz-box-shadow: 5px 3px 8px 1px #242516;
+	-webkit-box-shadow: 5px 3px 8px 1px #242516;
+	box-shadow: 5px 3px 8px 1px #242516;
+}
+
+ul,
+.social-section {
+	text-align: center;
+}
+
+ul {
+	padding-right: 3.6em;
+}
+
+li {
+	display: inline;
+	padding-left: 1em;
+	font-size: 1.1em;
+}
+
+a {
+	color: #C5D899;
+}
+
+a:visited,
+a:hover,
+a:active {
+	color: #94A856;
+	text-decoration: none;
+}
+
+
+.icons{
+    display:inline-block;
+    width: 64px; 
+    height: 64px; 
+   }
+   
+.intro {
+	background-color: #058375;
+	padding-top: 15px;
+	padding-bottom: 70px;
+}
+
+.location {
+	background-color: #D8D6BC;
+	padding: 50px 0;
+}
+
+.further-info {
+	background-color: #00549F;
+	padding: 30px 0;
+}
+
+.footer {
+	background-color: #0C5C56;
+	padding: 5px 0 35px 0;
+}
+
+.location,
+.further-info,
+.footer {
+	color: white;
+}
+
+@media only screen and (max-width: 1160px) {
+	.masthead {
+		margin: 5.5em 18em;
+	}
+}
+
+@media only screen and (max-width: 980px) {
+	.masthead {
+		margin: 5.5em 15em;
+	}
+}
+
+@media only screen and (max-width: 830px) {
+	.masthead {
+		margin: 5.5em 10em;
+	}
+}
+
+@media only screen and (max-width: 670px) {
+	.masthead {
+		margin: 5.5em 5.5em;
+	}
+	.intro-content,
+	.location-content,
+	.further-info-content,
+	.footer-content {
+		max-width: 30em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (max-width: 570px) {
+	.masthead {
+		margin: 5.5em 3em;
+		border-radius: 25px;
+	}
+}
+
+@media only screen and (max-width: 475px) {
+	.masthead {
+		margin: 5.5em 2em;
+	}
+	.intro-content,
+	.location-content,
+	.further-info-content,
+	.footer-content {
+		max-width: 23em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media only screen and (max-width: 420px) {
+	.masthead {
+		margin: 5.5em 1em;
+	}
+}
