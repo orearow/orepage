@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>HCI Portfolio</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Raleway|Lora'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+                 <div class="card" onclick="window.location.href = '/orepage/index.html';">
+
+  <header class="top-content">
+	<section class="masthead">
+		<h5 class="masthead-starter">Hi, I'm</h5>
+		<h1 class="masthead-name">Ore!</h1>
+	</section>
+</header>
+                 </div>
+<section class="intro">
+	<section class="intro-content">
+	<h1>introduction</h1>
+	<p>Hi! My name is Oreoluwa (Pronounced Are-eh-o-loo-ah) and I am a third year university student at the University of Calgary. According to the Meyers Brigs test I am an ENFP which means that I am a "fiercely independent, and crave creativity and freedom."
+</p>
+	</section>
+</section>
+<section class="location">
+	<section class="location-content">
+	<h1>This is my city</h1>
+	<br>
+	<img class="map" src="http://i124.photobucket.com/albums/p19/yuriboiblu/miscellaneous/other%20stuff/YBB_4166.jpg">
+	<br><br>
+	<h3>Calgary, AB</h3>
+	<p>Although my family is originally from Nigeria (which explains my name) I have lived in Calgary for more than seventeen years</p>
+	<p>Some of my favorite things about the city I live are the wonderful people, and I am so thankful to live here! </p>
+	</section>
+</section>
+<section class="further-info">
+	<section class="further-info-content">
+	<h1>The stuff I find cool</h1>
+	<h4>I like random did you know facts. (Did you know 85% of plant life is found in the ocean)</h4>
+	<p>I have been playing piano since I was seven. So piano is pretty cool- yeah. </p>
+        <p>Books books and more books. I am a cookie-cutter case book worm. I also like poetry and prose!</p>
+        <p>Snowboarding, squash, the field part of track and field.</p>
+
+
+	<h4>what interests me in comp sci?</h4>
+	<p> Other than creating a super-bot that is able to cook for me/ take over the world, I am very interested in HCI</p>
+        <p>HCI is short for human computer interactions and is my concentration in the university of calgary.  </p>
+        <p>I also find studies on brain to computer interfaces too cool to handle. Also, autonimous robots! And digital humanities.   </p>
+        <p>Another dream of mine is to use my skills in computer science to held the developing world.    </p>
+        <p>But honestly I am a little interested in everything.  </p>
+	<h4> my taste in music</h4>
+	<p>Note: Below links are to Youtube music. Check your sound before clicking.</p>
+	<p><a href="https://www.youtube.com/watch?v=8We0FVflGaU" target="_Blank">The Antlers</a>, <a href="https://www.youtube.com/watch?v=KiKA0m3rOdk" target="_Blank">some piano, </a> <a href="https://www.youtube.com/watch?v=wycjnCCgUes" target="_Blank">Tame Impala</a>,  <a href="https://www.youtube.com/watch?v=zMBTvuUlm98" target="_Blank"></a></p>
+	<p>In genre form: synthwave, electronica, psychedelic rock, instrumental, and folk.</p>
+	</section>
+</section>
+<footer class="footer">
+	<section class="footer-content">
+	<h2 class="social-section">say hi at these places:</h2>
+	<ul>
+<li><a href="https://www.facebook.com/princessbitterblue" target="_Blank">Facebook</a></li>
+                	<li><a href="https://www.facebook.com/princessbitterblue" target="_Blank">Linked in</a></li>
+                        	<li><a href="https://www.facebook.com/princessbitterblue" target="_Blank">Github</a></li>	</ul>
+	</section>
+</footer>
+  
+  
+</body>
+</html>
