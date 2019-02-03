@@ -14,6 +14,69 @@ h1 {
 	font-weight: bold;
 }
 
+
+
+
+
+
+.row {
+    display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+    max-width: 50%;
+
+    color: white;
+    border-right: #f18d9e;
+    background-color: #98dbc6;
+    flex: 50%;
+    padding: 10px;
+
+}
+
+
+
+#prettybox {
+    padding: 25px 50px;
+    background-color: #5bc8ac;
+    border-color: white ;
+    border-style: dotted;
+    color: white;
+}
+#prettybox2 {
+    padding: 25px 50px;
+    background-color: #98dbc6;
+    border-color: white ;
+    border-style: dotted;
+    color: white;
+}
+.aboutbox {
+    padding: 25px 50px;
+    background-color: #5bc8ac;
+    border-color: white ;
+    border-style: dotted;
+    height: 1300px;
+    color: white;
+    font-size: 35px;
+    font-family: happy;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .intro-content > h1 {
 	text-shadow: 0.05em 0.05em 0.05em #fff;
 	/* was 1px before conversion to ems */
